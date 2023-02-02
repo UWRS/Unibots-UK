@@ -1,4 +1,4 @@
-## Mechatronics 2021-2022 Code Styling Guide
+## Python Code Styling Guide
 
 ### What is code style?
 
